@@ -519,6 +519,9 @@ header {
     align-items: center;
     gap: 30px;
   }
+  .service-container {
+    text-align: center;
+  }
   .shield-logo {
     display: none;
   }
@@ -615,6 +618,7 @@ body {
   height: 100vh;
   position: relative;
   background-color: #000;
+  overflow-x: hidden;
 }
 
 button {
